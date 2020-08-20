@@ -1,2 +1,1 @@
-# dsw
-DSW documents
+# Data Science Workbench - DSW
